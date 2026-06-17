@@ -1,3 +1,0 @@
-Vulnerability Scan Report
-Target: scanme.nmap.org
-Open Ports: [22, 80]
